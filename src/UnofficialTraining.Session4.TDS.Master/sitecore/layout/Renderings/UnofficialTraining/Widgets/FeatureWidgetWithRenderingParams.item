@@ -1,0 +1,101 @@
+----item----
+version: 1
+id: {9EE8B1B3-66FA-4012-AA84-899C33E4BE3B}
+database: master
+path: /sitecore/layout/Renderings/UnofficialTraining/Widgets/FeatureWidgetWithRenderingParams
+parent: {F4AA278C-6B10-43AF-B427-BE8A003D8328}
+name: FeatureWidgetWithRenderingParams
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
+created: 20161025T221233:636130303533900000
+
+----field----
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 65
+
+/Views/Components/Widgets/FeatureWidgetWithRenderingParams.cshtml
+----field----
+field: {7D24E54F-5C16-4314-90C9-6051AA1A7DA1}
+name: Parameters Template
+key: parameters template
+content-length: 38
+
+{176C2C2F-5ACF-442A-BBC4-80DC153A77A3}
+----field----
+field: {EF7C5528-7307-4E19-863B-DA19EED6A9ED}
+name: Open Properties after Add
+key: open properties after add
+content-length: 0
+
+
+----field----
+field: {3D08DB46-2267-41B0-BC52-BE69FD618633}
+name: Cacheable
+key: cacheable
+content-length: 0
+
+
+----field----
+field: {8B6D532B-6128-4486-A044-CA06D90948BA}
+name: VaryByData
+key: varybydata
+content-length: 0
+
+
+----field----
+field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
+name: Datasource Location
+key: datasource location
+content-length: 38
+
+{0D7E15C6-3632-4DB4-AED4-1ABB25F1DA36}
+----field----
+field: {1A7C85E5-DC0B-490D-9187-BB1DBCB4C72F}
+name: Datasource Template
+key: datasource template
+content-length: 76
+
+/sitecore/templates/User Defined/UnofficialTraining/Components/FeatureWidget
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 58
+
+<image mediaid="{E9CCCEC6-A9A7-4334-BD8F-BDE79C5C34E6}" />
+----version----
+language: en
+version: 1
+revision: af6e11f5-7db5-4f89-91dd-0c796113ab21
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161024T093153Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+af6e11f5-7db5-4f89-91dd-0c796113ab21
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161027T005720Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

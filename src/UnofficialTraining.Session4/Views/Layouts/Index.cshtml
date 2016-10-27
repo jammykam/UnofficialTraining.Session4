@@ -1,0 +1,14 @@
+﻿@using Sitecore.Mvc
+@{
+    Layout = "_LayoutPage.cshtml";
+}
+
+@Html.Sitecore().Placeholder("header")
+
+<div class="row" data-container-title="Main Content">
+    <div class="large-12 columns">
+        @Html.Sitecore().Placeholder("main-content")
+    </div>
+</div>
+
+@Html.Sitecore().Placeholder("footer")

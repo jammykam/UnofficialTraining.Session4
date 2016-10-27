@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {BF4CAB12-577A-4A96-B41E-58832C39DABC}
+database: master
+path: /sitecore/content/Home/Sample Pages/Carousel
+parent: {78C49C97-5781-47C2-8FBD-B71F0660EE1F}
+name: Carousel
+master: {00000000-0000-0000-0000-000000000000}
+template: {F57A058B-E3BF-4AE4-A0E2-5F2099634556}
+templatekey: GenericPage
+created: 20161027T223510:636132045106600000
+
+----version----
+language: en
+version: 1
+revision: f2f7d3f0-16b3-439e-976c-e1cd10b294ba
+
+----field----
+field: {46BD5149-C267-49D9-97E3-8F51776B298B}
+name: BrowserTitle
+key: browsertitle
+content-length: 24
+
+Carousel - Browser Title
+----field----
+field: {74E815FC-D57F-4D9F-AB38-E01D39299CDB}
+name: MetaTitle
+key: metatitle
+content-length: 21
+
+Carousel - Meta Title
+----field----
+field: {AA5C3A97-749C-4B81-B483-8BBB1C0F0EFE}
+name: MetaDescription
+key: metadescription
+content-length: 27
+
+Carousel - Meta Description
+----field----
+field: {C2B85B51-8A19-4F0C-B0A2-60FB82B75E93}
+name: SummaryTitle
+key: summarytitle
+content-length: 24
+
+Carousel - Summary Title
+----field----
+field: {D81BDA1B-D344-42C3-851E-A7DEC2FF7D9D}
+name: SummaryDescription
+key: summarydescription
+content-length: 90
+
+Carousel - Summary Description... Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 833
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{123C877C-7E0E-48A8-9798-E8B44F8F0CCF}" p:before="*" s:id="{C380BBF8-A5CE-48FC-8EBA-939532E29D5F}" s:ph="/main-content/carousel-slide" /><r uid="{FFCA6D6A-04A3-4D40-B3B1-D9698FB39CBE}" p:after="r[@uid='{123C877C-7E0E-48A8-9798-E8B44F8F0CCF}']" s:id="{FF8D8EFE-7DB6-40B8-8302-A6657D2F79D8}" s:ph="/main-content/carousel-slide" /><r uid="{09934CC8-338F-440B-99B9-16BEEA7797F7}" p:after="r[@uid='{FFCA6D6A-04A3-4D40-B3B1-D9698FB39CBE}']" s:id="{A502B39E-11FE-454D-9A61-F97FFDC20806}" s:ph="/main-content/carousel-slide" /><r uid="{9E451A65-092E-4100-9BD7-F64318475142}" p:after="r[@uid='{09934CC8-338F-440B-99B9-16BEEA7797F7}']" s:id="{593BC0C2-D523-49C8-A4F0-12C691506851}" s:ph="main-content" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161027T223510Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f2f7d3f0-16b3-439e-976c-e1cd10b294ba
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161027T223633Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

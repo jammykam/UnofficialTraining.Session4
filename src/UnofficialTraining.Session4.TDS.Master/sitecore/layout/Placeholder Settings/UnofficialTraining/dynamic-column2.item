@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {85FF0057-97ED-4113-8C6D-E4984996897B}
+database: master
+path: /sitecore/layout/Placeholder Settings/UnofficialTraining/dynamic-column2
+parent: {743678EB-38A9-44E3-8A90-716CA2B4A46E}
+name: dynamic-column2
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20161027T181250:636131887709000000
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 15
+
+dynamic-column2
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 116
+
+{EAD6EF3A-0CFD-4F54-A4D4-45DEB1CDAD10}|{5CC0992E-B754-4D9D-A81B-5364D39C1A1E}|{9EE8B1B3-66FA-4012-AA84-899C33E4BE3B}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+500
+----version----
+language: en
+version: 1
+revision: e2f4cb81-e3cc-4fcc-8d82-fb1fca7faa24
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161023T231035Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e2f4cb81-e3cc-4fcc-8d82-fb1fca7faa24
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161027T202744Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

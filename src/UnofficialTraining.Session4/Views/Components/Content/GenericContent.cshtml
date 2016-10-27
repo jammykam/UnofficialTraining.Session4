@@ -1,0 +1,9 @@
+﻿@using Glass.Mapper.Sc.Web.Mvc
+@model UnofficialTraining.Session4.Data.Interfaces.IGenericContent
+
+<div class="row" data-widget-title="Title and Text">
+    <div class="large-12 columns">
+        <h2>@Html.Glass().Editable(Model, x => x.Title)</h2>
+        @Html.Glass().Editable(Model, x => x.Text)
+    </div>
+</div>

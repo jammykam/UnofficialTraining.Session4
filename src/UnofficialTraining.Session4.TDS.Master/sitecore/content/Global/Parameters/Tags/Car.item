@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {11CD1076-BBBE-4DF4-A7AF-38647617A45E}
+database: master
+path: /sitecore/content/Global/Parameters/Tags/Car
+parent: {A7C23C87-FEAB-47C8-9588-50A37CEF77EA}
+name: Car
+master: {00000000-0000-0000-0000-000000000000}
+template: {EC2DF6D4-5DF0-4D23-884F-3862A8A95F11}
+templatekey: LookupItem
+created: 20161026T010403:636130406430730000
+
+----version----
+language: en
+version: 1
+revision: 635437ee-c3c1-473d-a901-fc50293f4e0b
+
+----field----
+field: {08DE01A7-89D2-448D-8A47-4A286D77AF92}
+name: Text
+key: text
+content-length: 3
+
+Car
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161026T010403Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+635437ee-c3c1-473d-a901-fc50293f4e0b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161026T010403Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

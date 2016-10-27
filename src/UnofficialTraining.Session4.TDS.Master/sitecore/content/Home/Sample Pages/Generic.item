@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {13A63852-7041-4908-9DDB-AAF116032EB5}
+database: master
+path: /sitecore/content/Home/Sample Pages/Generic
+parent: {78C49C97-5781-47C2-8FBD-B71F0660EE1F}
+name: Generic
+master: {00000000-0000-0000-0000-000000000000}
+template: {F57A058B-E3BF-4AE4-A0E2-5F2099634556}
+templatekey: GenericPage
+created: 20161025T224248:636130321684230000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----version----
+language: en
+version: 1
+revision: 24128839-2247-4f66-bb24-f49ba8fc19de
+
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2903
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{2D1B1070-74A8-4896-910A-02D78262792A}" p:after="r[@uid='{BC8ED8D0-B525-4663-B08B-C3C012CE2CCC}']" s:ds="{1CD3564D-F844-4D99-965A-941F69F0781C}" s:id="{9EE8B1B3-66FA-4012-AA84-899C33E4BE3B}" s:par="Style=%7BECDC285C-40DB-4327-B0C0-024A8742C0ED%7D" s:ph="/main-content/dynamic-column2_b161ce28-c62d-4ab1-95f3-7f1a2b2eed94_2" /><r uid="{1E532A46-29A6-4981-8A50-11A60EDC7C04}" p:after="r[@uid='{2D1B1070-74A8-4896-910A-02D78262792A}']" s:ds="{FC9A1D86-FF5A-458C-843B-EF627AC41545}" s:id="{9EE8B1B3-66FA-4012-AA84-899C33E4BE3B}" s:par="Style=%7B2A906332-920B-4BA3-9958-B0CF62A66F7B%7D" s:ph="/main-content/dynamic-column2_b161ce28-c62d-4ab1-95f3-7f1a2b2eed94_1" /><r uid="{47D6FE5D-474C-4A6F-BD2E-511728F90958}" p:after="r[@uid='{1E532A46-29A6-4981-8A50-11A60EDC7C04}']" s:ds="{4C5F32C4-4B02-44B5-AE59-625E707A751C}" s:id="{9EE8B1B3-66FA-4012-AA84-899C33E4BE3B}" s:par="Style=%7BAD6CADD6-406D-4A04-BEBC-F200ACC3895F%7D&amp;Icon=%3Cimage%20mediaid%3D%22%7BCFE98BC4-E152-4A67-9A4B-9E0068977815%7D%22%20%2F%3E" s:ph="/main-content/dynamic-column2_b161ce28-c62d-4ab1-95f3-7f1a2b2eed94" /><r uid="{0DE4453B-7E29-469E-9686-D1A62E7CD977}" p:after="r[@uid='{47D6FE5D-474C-4A6F-BD2E-511728F90958}']" s:ds="{0718087D-2BDE-4F01-9A92-847D6BB8E51D}" s:id="{5CC0992E-B754-4D9D-A81B-5364D39C1A1E}" s:ph="/main-content/right-column" /><r uid="{DED4ABEB-26F3-45FB-A0E4-23BE87DCAC51}" p:after="r[@uid='{0DE4453B-7E29-469E-9686-D1A62E7CD977}']" s:ds="{CC718A99-7B67-47E6-9138-65A08A95EC21}" s:id="{EAD6EF3A-0CFD-4F54-A4D4-45DEB1CDAD10}" s:ph="/main-content/left-column" /><r uid="{DEC813EE-5C22-45ED-8A7D-51E889675FEC}" p:after="r[@uid='{DED4ABEB-26F3-45FB-A0E4-23BE87DCAC51}']" s:ds="{CC718A99-7B67-47E6-9138-65A08A95EC21}" s:id="{EAD6EF3A-0CFD-4F54-A4D4-45DEB1CDAD10}" s:ph="/main-content/left-column" /><r uid="{044F1CF6-783A-4CE1-8C3B-57117880CC98}" p:after="r[@uid='{DEC813EE-5C22-45ED-8A7D-51E889675FEC}']" s:id="{468AE6C5-3E84-453A-89C6-4888EFB5B7A5}" s:ph="main-content" /><r uid="{6C01CB7E-108B-4A96-A537-09CB3F973F32}" p:after="r[@uid='{044F1CF6-783A-4CE1-8C3B-57117880CC98}']" s:ds="{1B67B55B-2EA4-4C12-9840-872275671BE8}" s:id="{418435E0-D2BF-4E17-BF22-BABDC29475C0}" s:ph="main-content" /><r uid="{B161CE28-C62D-4AB1-95F3-7F1A2B2EED94}" p:after="r[@uid='{6C01CB7E-108B-4A96-A537-09CB3F973F32}']" s:id="{D42F1358-150D-4391-9EFB-EF7B99C03003}" s:ph="main-content" /><r uid="{DC8EBC72-A954-4D6E-84A1-67ED356AC380}" p:after="r[@uid='{B161CE28-C62D-4AB1-95F3-7F1A2B2EED94}']" s:id="{468AE6C5-3E84-453A-89C6-4888EFB5B7A5}" s:ph="main-content" /><r uid="{834AF25F-B2C5-415A-927E-12DBEB35A3BF}" p:after="*[1=2]" s:ds="{1CD3564D-F844-4D99-965A-941F69F0781C}" s:id="{9EE8B1B3-66FA-4012-AA84-899C33E4BE3B}" s:ph="/main-content/dynamic-column2_b161ce28-c62d-4ab1-95f3-7f1a2b2eed94_3" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161025T224248Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+24128839-2247-4f66-bb24-f49ba8fc19de
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161027T002229Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,96 @@
+﻿.columns {
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+}
+.row .row {
+    margin: 0.2rem 0;
+}
+
+.blue .panel {
+    background-color: #a7c4f1;
+}
+
+.red .panel {
+    background-color: #ff0000;
+}
+
+.green .panel {
+    background-color: #00ff68;
+}
+
+
+.widget-editframe {
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.275);
+    position: absolute;
+    right: 0.5rem;
+    top: 0.5rem;
+}
+
+.widget-editframe .properties-button {
+    background: #fafafa url(http://i.imgur.com/3shdy9s.png) no-repeat 50% 50%;
+    color: #2b2b2b;
+    margin: 0;
+    padding: 15px 15px;
+}
+
+.carousel ul {
+    margin: 0;
+    list-style-type: none;
+}
+
+/* -- default -- */
+html.is-experience-editor div[data-container-title],
+html.is-experience-editor div[data-widget-title] {
+    border: 4px solid rgba(169, 169, 169, 0.7);
+    padding-top: 25px;
+    position: relative;
+}
+    
+html.is-experience-editor div[data-container-title]::before,
+html.is-experience-editor div[data-widget-title]::before {
+    color: #fff;
+    content: attr(data-container-title);
+    background-color: rgba(169,169,169,0.7);
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 100%;
+    padding: 0 10px;
+}
+
+/* -- placeholder -- */
+html.is-experience-editor div[data-container-title]:nth-child(even) {
+    border-color: rgba(99,99,99,0.7);
+}
+
+html.is-experience-editor div[data-container-title]:nth-child(even)::before {
+    background-color: rgba(99,99,99,0.7);
+}
+
+/* -- widget -- */
+html.is-experience-editor div[data-widget-title] {
+    border-color: rgba(0,159,193,0.7);
+    /*padding-top: 0;*/
+}
+
+html.is-experience-editor div[data-widget-title]::before {
+    content: attr(data-widget-title);
+    background-color: rgba(0,159,193,0.7);
+    /*z-index: 1;*/
+}
+    
+html.is-experience-editor div[data-widget-title]:nth-child(even) {
+    border-color: rgba(191,19,168,0.7);
+}
+
+html.is-experience-editor div[data-widget-title]:nth-child(even)::before {
+    background-color: rgba(191,19,168,0.7);
+}
+
+/* Simulate Empty Container */
+.scEmptyPlaceholder {
+  background: transparent url(http://i.imgur.com/0i783Kt.png) repeat;
+  height: 100px;
+}

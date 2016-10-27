@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {6C804748-6E15-480A-8C97-25697471D8DD}
+database: master
+path: /sitecore/content/Home/Sample/GenericPage 5
+parent: {4A4FED06-2C11-4203-ABE7-114775EB3EFE}
+name: GenericPage 5
+master: {00000000-0000-0000-0000-000000000000}
+template: {F57A058B-E3BF-4AE4-A0E2-5F2099634556}
+templatekey: GenericPage
+created: 20161027T001817:636131242976130000
+
+----version----
+language: en
+version: 1
+revision: 13ecd49e-875e-4373-9af3-3bb2036c22c0
+
+----field----
+field: {46BD5149-C267-49D9-97E3-8F51776B298B}
+name: BrowserTitle
+key: browsertitle
+content-length: 29
+
+GenericPage 5 - Browser Title
+----field----
+field: {74E815FC-D57F-4D9F-AB38-E01D39299CDB}
+name: MetaTitle
+key: metatitle
+content-length: 26
+
+GenericPage 5 - Meta Title
+----field----
+field: {AA5C3A97-749C-4B81-B483-8BBB1C0F0EFE}
+name: MetaDescription
+key: metadescription
+content-length: 32
+
+GenericPage 5 - Meta Description
+----field----
+field: {C2B85B51-8A19-4F0C-B0A2-60FB82B75E93}
+name: SummaryTitle
+key: summarytitle
+content-length: 29
+
+GenericPage 5 - Summary Title
+----field----
+field: {D81BDA1B-D344-42C3-851E-A7DEC2FF7D9D}
+name: SummaryDescription
+key: summarydescription
+content-length: 95
+
+GenericPage 5 - Summary Description... Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+----field----
+field: {6F7105AD-4CE5-49CC-BCC1-490E22964620}
+name: ProductTags
+key: producttags
+content-length: 77
+
+{145075E6-0378-4085-B322-4599D92AB0F0}|{EC483A06-4950-4E39-8D8D-3724079D8341}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161027T001817Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+13ecd49e-875e-4373-9af3-3bb2036c22c0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161027T002024Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

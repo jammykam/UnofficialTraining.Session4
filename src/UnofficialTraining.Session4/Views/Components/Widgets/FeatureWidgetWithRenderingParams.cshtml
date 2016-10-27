@@ -1,0 +1,23 @@
+﻿@using Glass.Mapper.Sc.Web.Mvc
+@using UnofficialTraining.Session4.Data.Interfaces
+@using UnofficialTraining.Session4.Data.Interfaces.RenderingParameters
+
+@model IFeatureWidget
+
+@{
+    var parameters = Html.Glass().GetRenderingParameters<IComponentStyling>();
+    var overrideClass = (parameters != null && parameters.Style != null) ? parameters.Style.Text : string.Empty;
+}
+
+<div class="row" data-widget-title="Feature Widget With Image">
+    <div class="large-12 columns @overrideClass">
+
+        @Html.Glass().Editable(Model, x => x.Image)
+        <h6 class="panel">
+            @Html.Glass().Editable(Model, x => x.Title)
+            @Html.Glass().RenderImage(parameters, x => x.Icon)
+        </h6>
+        @Html.Glass().Editable(Model, x => x.Description)
+
+    </div>
+</div>

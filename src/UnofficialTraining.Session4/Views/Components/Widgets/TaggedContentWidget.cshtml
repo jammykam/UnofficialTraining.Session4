@@ -1,0 +1,57 @@
+﻿@using Glass.Mapper.Sc.Web.Mvc
+@model UnofficialTraining.Session4.Data.ViewModels.RelatedContent
+
+<div class="row">
+    <div class="large-12 columns" data-widget-title="Related Content Parameters Widget">
+
+        @if (Sitecore.Context.PageMode.IsExperienceEditorEditing)
+        {
+            <div class="widget-editframe">
+                @using (@Html.Glass().BeginEditFrame(Model.Content, "Set Root Item",
+                            x => x.FilterRoot, x => x.CheckboxSample))
+                {
+                    <p class="properties-button edit-icon"></p>
+                }
+            </div>
+        }
+
+        <div class="row">
+            <div class="large-12 columns">
+                <h2>@Html.Glass().Editable(Model, x => x.Content.Title)</h2>
+                <h3>@Html.Glass().Editable(Model, x => x.Content.SubTitle)</h3>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="large-12 columns">
+                <div class="row">
+                    @if (Model.RelatedItems != null && Model.RelatedItems.Any())
+                    {
+                        foreach (var item in Model.RelatedItems)
+                        {
+                            <div class="large-4 small-6 columns">
+                                <a href="@item.Url">
+                                    <h6 class="panel">
+                                        @item.SummaryTitle
+                                    </h6>
+                                </a>
+                                @item.SummaryDescription
+
+                                @if (item.ProductTags.Any())
+                                {
+                                    <ul>
+                                        @foreach (var tag in item.ProductTags)
+                                        {
+                                            <li>@tag.Text</li>
+                                        }
+                                    </ul>
+                                }
+                            </div>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

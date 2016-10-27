@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {5ED317FB-1F12-484F-A7E3-A039400F4207}
+database: master
+path: /sitecore/templates/User Defined/UnofficialTraining/RenderingParameters/RelatedContentFilter/Related Content Filter/DisplayCount
+parent: {E7A6C005-35BD-4BFD-8131-A8CD28C6879C}
+name: DisplayCount
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+created: 20161026T172441:636130994811200000
+
+----field----
+field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
+name: Type
+key: type
+content-length: 16
+
+Single-Line Text
+----field----
+field: {9C903E29-650D-4AF2-B9BD-526D5C14A1A5}
+name: Validator Bar
+key: validator bar
+content-length: 77
+
+{59D4EE10-627C-4FD3-A964-61A88B092CBC}|{7CC88F55-8466-484B-A224-EF4984DCAEDA}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----version----
+language: en
+version: 1
+revision: efce8606-e36e-4249-84e8-890cec1e4d92
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161026T172441Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+efce8606-e36e-4249-84e8-890cec1e4d92
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161026T172441Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

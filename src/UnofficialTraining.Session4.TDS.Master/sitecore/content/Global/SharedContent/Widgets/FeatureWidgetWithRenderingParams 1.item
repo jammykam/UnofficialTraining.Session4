@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {4C5F32C4-4B02-44B5-AE59-625E707A751C}
+database: master
+path: /sitecore/content/Global/SharedContent/Widgets/FeatureWidgetWithRenderingParams 1
+parent: {0D7E15C6-3632-4DB4-AED4-1ABB25F1DA36}
+name: FeatureWidgetWithRenderingParams 1
+master: {00000000-0000-0000-0000-000000000000}
+template: {9330E25A-16CA-4F4F-B07E-4C56B4DE974E}
+templatekey: FeatureWidget
+created: 20161026T012002:636130416024700000
+
+----version----
+language: en
+version: 1
+revision: 50e5981b-c7d1-4d02-a191-3ace03d990f2
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161026T012002Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+50e5981b-c7d1-4d02-a191-3ace03d990f2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161026T012002Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

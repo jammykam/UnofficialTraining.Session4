@@ -1,0 +1,33 @@
+﻿@using Glass.Mapper.Sc.Web.Mvc
+@model UnofficialTraining.Session4.Data.ViewModels.RelatedContent
+
+<div class="row">
+    <div class="large-12 columns" data-widget-title="Related Content Controller Widget">
+
+        <div class="row">
+            <div class="large-12 columns">
+                <h2>@Html.Glass().Editable(Model, x => x.Content.Title)</h2>
+                <h3>@Html.Glass().Editable(Model, x => x.Content.SubTitle)</h3>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="large-12 columns">
+                <div class="row">
+                    @foreach (var item in Model.RelatedItems)
+                    {
+                        <div class="large-4 small-6 columns">
+                            <a href="@item.Url">
+                                <h6 class="panel">
+                                    @item.SummaryTitle
+                                </h6>
+                            </a>
+                            @item.SummaryDescription
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

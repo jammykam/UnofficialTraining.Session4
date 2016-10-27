@@ -1,0 +1,126 @@
+----item----
+version: 1
+id: {1D15AAE1-FA5F-4C36-BF0B-4B3BF6AFC262}
+database: master
+path: /sitecore/media library/UnofficialTraining/Icons/camera
+parent: {DE8BDB40-42EF-419F-BD95-1F46F8FE0048}
+name: camera
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+created: 20161026T094125:636130716853830000
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 910
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIrSURBVDjLxVPLjhJBFD3V3dCYSZjwDipD
+RjCOCcTgLGalJmxYufAD0E/QHV9g3LjSsGDhik/QjTEaTdgaEsQQINEFJjwEecmr6Yf3lkJmPwsr
+uXWrq+85dc+9VcJxHFxkKLjg0HgqlUpP1+t1drvdXrIsS2w2G9dqtXKzt21b6Lpu+P3+N4VC4QnH
+5/P5U3Lfy+XyL1EsFg9VVZ1kMhmwHAJIa1Tf4eH96zC+vcKLDyfwRm6i1Wo/Go/HLwnsJWPtZ2oi
+kainUil/JBJBp9NBr9fDcDjE5aMTfPz8E835bdw6vQMhBLrd7gNFUXSPxwNN08RsNrur0alJr9eL
+er2OcDiMdDoNkgKSglAohEajgUqlgkAggGw2i36/j8lkImOazeYNjQMHgwGCwSC2B0d4/n6FhSlg
+U366cOHe1Wvwz+eUfgucJQPb7Tai0aiUqvC0WCwQi8Xw+ouBjaPA4yJzK7AUFz79OJDA0WgkwYZh
+gAq8z1JjAqq2tN+Wm4AqNGouXw9Bk+G4QR2SxmCO4zV7mQGz7Fh5OI79F0wkCpmqCCyXSxlzPoM9
+wS4DqijcjgHTJv22Q+k5ksiNFabTqQSapilJOJ79noAZa7UaMoc9qOYSG9oziUSxlriy+YpqtbrX
+vSPZEWjMxidwewLjMc6Oj2VxOGBO1WdivhvJZFLusf54PC5lMYHI5XKPqa/P6EP3+XyCry4T8E/2
+BHDoEIdv6fmH92/9Vvz31/gHd9iUVZFEDKoAAAAASUVORK5CYII=
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 2
+
+16
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 2
+
+16
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 3
+
+665
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 7
+
+16 x 16
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/1D15AAE1FA5F4C36BF0B4B3BF6AFC262.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: fc920da1-c232-4aab-9123-b492f4225234
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161026T094125Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fc920da1-c232-4aab-9123-b492f4225234
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161026T094125Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\Anonymous

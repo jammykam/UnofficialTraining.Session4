@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {1B67B55B-2EA4-4C12-9840-872275671BE8}
+database: master
+path: /sitecore/content/Global/SharedContent/Widgets/GenericContent 1
+parent: {0D7E15C6-3632-4DB4-AED4-1ABB25F1DA36}
+name: GenericContent 1
+master: {00000000-0000-0000-0000-000000000000}
+template: {BA20AE6D-C6A1-4C66-A048-A44F4F2C329C}
+templatekey: GenericContent
+created: 20161026T004327:636130394071370000
+
+----version----
+language: en
+version: 1
+revision: 7625d542-1fa8-4efa-b0f3-15ca60154a60
+
+----field----
+field: {2A87B5CE-8E65-4B6C-A4B4-DBB8CE0CB47F}
+name: Title
+key: title
+content-length: 12
+
+Sample title
+----field----
+field: {226A80AF-9277-45E4-BC2F-DDDC4FF2D6C7}
+name: Text
+key: text
+content-length: 21
+
+<p>Sample content</p>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161026T004327Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7625d542-1fa8-4efa-b0f3-15ca60154a60
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161027T002619Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

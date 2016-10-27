@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {01C878FE-454B-4F27-8DD3-D6C720723DE4}
+database: master
+path: /sitecore/templates/User Defined/UnofficialTraining/Components/GenericContent/__Standard Values
+parent: {BA20AE6D-C6A1-4C66-A048-A44F4F2C329C}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {BA20AE6D-C6A1-4C66-A048-A44F4F2C329C}
+templatekey: GenericContent
+created: 20161024T001405:636128648453330000
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 27
+
+Applications/16x16/text.png
+----version----
+language: en
+version: 1
+revision: 4466b8d7-f75d-48a9-9e39-ed95e196f45e
+
+----field----
+field: {2A87B5CE-8E65-4B6C-A4B4-DBB8CE0CB47F}
+name: Title
+key: title
+content-length: 21
+
+$name - Generic Title
+----field----
+field: {226A80AF-9277-45E4-BC2F-DDDC4FF2D6C7}
+name: Text
+key: text
+content-length: 84
+
+$name Generic Desciption... Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161024T001405Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4466b8d7-f75d-48a9-9e39-ed95e196f45e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161026T193628Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {2AED180C-BCCC-438B-B776-95B86D262A0A}
+database: master
+path: /sitecore/layout/Placeholder Settings/UnofficialTraining/main-content
+parent: {743678EB-38A9-44E3-8A90-716CA2B4A46E}
+name: main-content
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20161027T181251:636131887710930000
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 12
+
+main-content
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 272
+
+{418435E0-D2BF-4E17-BF22-BABDC29475C0}|{468AE6C5-3E84-453A-89C6-4888EFB5B7A5}|{0F0CD233-C05A-441A-8E4D-111F4F1C00C7}|{D42F1358-150D-4391-9EFB-EF7B99C03003}|{094CFD4C-BA3E-468A-A3A4-418E1781EB17}|{E3DBC2E8-22DA-4D07-9960-A7B974208DC5}|{593BC0C2-D523-49C8-A4F0-12C691506851}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----version----
+language: en
+version: 1
+revision: 419b38bb-1600-4385-935d-8767aba17f5e
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20161023T230700Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+419b38bb-1600-4385-935d-8767aba17f5e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20161027T203142Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
